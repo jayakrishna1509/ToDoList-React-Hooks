@@ -2,4 +2,4 @@
 
 * They have to implement an edit function in the edit, modify, and delete buttons using useState in React.
 
-Tech Stack: React, Hooks, useState, JavaScript
+Tech Stack: React, Hooks, JavaScript
